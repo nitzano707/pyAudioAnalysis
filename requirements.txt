@@ -1,5 +1,6 @@
 Flask==2.3.2
 pyAudioAnalysis==0.3.14
+scikit-learn
 scipy
 numpy
 matplotlib
