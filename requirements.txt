@@ -1,3 +1,4 @@
+Flask==2.3.2
 pyAudioAnalysis==0.3.14
 scipy
 numpy
