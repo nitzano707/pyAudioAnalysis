@@ -8,3 +8,4 @@ hmmlearn
 librosa
 wave
 pydub
+eyed3
